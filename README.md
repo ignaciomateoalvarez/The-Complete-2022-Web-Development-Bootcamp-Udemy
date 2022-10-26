@@ -106,5 +106,5 @@ https://drive.google.com/drive/folders/1xvqV9dMPpZSA7zMLzKdt6PbvNQAlwmfd?usp=sha
  
   ### TinDog
  
- ![](tindog.gif)
+ ![](tinDog.gif)
 
