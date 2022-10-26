@@ -64,9 +64,16 @@ https://drive.google.com/drive/folders/1xvqV9dMPpZSA7zMLzKdt6PbvNQAlwmfd?usp=sha
  
  ![](img_ToDoList.jpg)
  
-  ### Token
- <p> Creamos un mercado de NTFs usando React, Motoko e Internet Computer. </p>
+  ### DBank
+ <p> Banco descentralizado usando Internet Computer, Motoko y React. </p>
  
- ![](img_ToDoList.jpg)
+ ![](img_DBank.jpg)
+ 
+   ### OpenD
+ <p> Inspirado en OpeanSea. Usa nuestra aplicacion anterior DBank para poder listar, comprar y vender NFTs usando las mismas tecnologias! </p>
+ 
+ ![](img_token1.jpg)
+ 
+ ![](img_token2.jpg)
 
 
