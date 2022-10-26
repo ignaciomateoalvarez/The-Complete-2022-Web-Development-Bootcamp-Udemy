@@ -57,7 +57,7 @@ https://drive.google.com/drive/folders/1xvqV9dMPpZSA7zMLzKdt6PbvNQAlwmfd?usp=sha
  ### Keeper App
  <p>App de notas que podemos guardar para mas tarde, y luego elimaarlas. </p>
 
-![](img_keeperapp.jpg)
+![](keeperapp.gif)
 
  ### TO-DO List
  <p> Es una version anterior de Keeper App con una funcionalidad similar. </p>
