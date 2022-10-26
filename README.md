@@ -98,9 +98,13 @@ https://drive.google.com/drive/folders/1xvqV9dMPpZSA7zMLzKdt6PbvNQAlwmfd?usp=sha
  
  ![](img_newsletter.jpg)
  
- ## Otros Projectos: usando mucho Javascript, Bootstrap, HTML y CSS.
+ ## Otros Proyectos (usando mucho Javascript, Bootstrap, HTML y CSS).
  
  ### Simon Game
  
  ![](img_simongame.jpg)
+ 
+  ### TinDog
+ 
+ ![](img_tinDog.gif)
 
