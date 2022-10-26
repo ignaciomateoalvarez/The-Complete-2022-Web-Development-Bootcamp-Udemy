@@ -102,7 +102,7 @@ https://drive.google.com/drive/folders/1xvqV9dMPpZSA7zMLzKdt6PbvNQAlwmfd?usp=sha
  
  ### Simon Game
  
- ![](img_simongame.jpg)
+ ![](simongame.gif.gif)
  
   ### TinDog
  
