@@ -83,5 +83,10 @@ https://drive.google.com/drive/folders/1xvqV9dMPpZSA7zMLzKdt6PbvNQAlwmfd?usp=sha
  <p> App para alojar nuestros secretos de manera protegida. Usamos authentication, security, Auth2.0 w/ Google and Facebook. </p>
  
  ![](img_secrets2.jpg)
+ 
+  ### Blog
+ <p> Blog diario con una base de datos en MongoDB usando EJS, Express.js y Lodash . </p>
+ 
+ ![](img_blogDB.jpg)
 
 
