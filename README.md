@@ -59,7 +59,9 @@ https://drive.google.com/drive/folders/1xvqV9dMPpZSA7zMLzKdt6PbvNQAlwmfd?usp=sha
 
 ![](img_keeperapp.jpg)
 
- ### ToDoList
- <p> </p>
+ ### TO-DO List
+ <p> Es una version anterior de Keeper App con una funcionalidad similar. </p>
+ 
+ ![](img_ToDoList.jpg)
 
 
