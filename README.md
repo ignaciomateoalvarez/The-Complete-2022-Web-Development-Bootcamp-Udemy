@@ -108,7 +108,7 @@ https://drive.google.com/drive/folders/1xvqV9dMPpZSA7zMLzKdt6PbvNQAlwmfd?usp=sha
  
  ![](tinDog.gif)
  
-  ### Dice Game
+  ### Dicee Game
  
  ![](dicegame.gif)
  
