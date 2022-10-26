@@ -1,4 +1,4 @@
-# Complete_Web_Development_Bootcamp
+# Complete_Web_Development_Bootcamp | Udemy
 
 ## Notes
 https://drive.google.com/drive/folders/1xvqV9dMPpZSA7zMLzKdt6PbvNQAlwmfd?usp=sharing
@@ -75,5 +75,13 @@ https://drive.google.com/drive/folders/1xvqV9dMPpZSA7zMLzKdt6PbvNQAlwmfd?usp=sha
  ![](img_token1.jpg)
  
  ![](img_token2.jpg)
+
+
+## Node.js Projects
+
+ ### Secrets
+ <p> App para alojar nuestros secretos de manera protegida. Usamos authentication, security, Auth2.0 w/ Google and Facebook. </p>
+ 
+ ![](img_secrets2.jpg)
 
 
