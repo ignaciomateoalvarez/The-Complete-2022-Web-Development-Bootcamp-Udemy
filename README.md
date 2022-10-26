@@ -97,5 +97,10 @@ https://drive.google.com/drive/folders/1xvqV9dMPpZSA7zMLzKdt6PbvNQAlwmfd?usp=sha
  <p> Usamos Express.js, Mailchimp API, & Heroku. </p>
  
  ![](img_newsletter.jpg)
-
+ 
+ ## Otros Projectos: usando mucho Javascript, Bootstrap, HTML y CSS.
+ 
+ ### Simon Game
+ 
+ ![](img_simongame.jpg)
 
