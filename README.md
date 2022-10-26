@@ -53,4 +53,9 @@ https://drive.google.com/drive/folders/1xvqV9dMPpZSA7zMLzKdt6PbvNQAlwmfd?usp=sha
  - NFT minting, buying and selling logic
  
  ## React Projects
- <img src="/img_keeperapp">
+ 
+ ### Keeper App
+ <p>App de notas que podemos guardar para mas tarde, y luego elimaarlas. </p>
+![img_keeperapp](https://user-images.githubusercontent.com/107191744/197919400-6a3be0e6-feaf-4a99-b632-078ac2a8c0bd.jpg)
+
+
