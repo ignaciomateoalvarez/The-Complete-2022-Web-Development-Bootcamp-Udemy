@@ -92,5 +92,10 @@ https://drive.google.com/drive/folders/1xvqV9dMPpZSA7zMLzKdt6PbvNQAlwmfd?usp=sha
   ### TO-DO List
  
  ![](img_nodeTODOlist.jpg)
+ 
+ ### Newsletter
+ <p> Usamos Express.js, Mailchimp API, & Heroku. </p>
+ 
+ ![](img_newsletter.jpg)
 
 
