@@ -55,7 +55,7 @@ https://drive.google.com/drive/folders/1xvqV9dMPpZSA7zMLzKdt6PbvNQAlwmfd?usp=sha
  ## React Projects
  
  ### Keeper App
- <p>App de notas que podemos guardar para mas tarde, y luego elimaarlas. </p>
+ <p>App de notas que podemos guardar para mas tarde, y luego eliminarlas </p>
 
 ![](keeperapp.gif)
 
@@ -80,12 +80,12 @@ https://drive.google.com/drive/folders/1xvqV9dMPpZSA7zMLzKdt6PbvNQAlwmfd?usp=sha
 ## Node.js Projects
 
  ### Secrets
- <p> App para alojar nuestros secretos de manera protegida. Usamos authentication, security, Auth2.0 w/ Google and Facebook. </p>
+ <p> App para alojar nuestros secretos de manera segura. Usamos authentication, security, Auth2.0 w/ Google y Facebook. </p>
  
  ![](img_secrets2.jpg)
  
   ### Blog
- <p> Blog diario con una base de datos en MongoDB usando EJS, Express.js y Lodash . </p>
+ <p> Blog diario con una base de datos en MongoDB usando EJS, Express.js y Lodash. </p>
  
  ![](img_blogDB.jpg)
  
@@ -94,7 +94,7 @@ https://drive.google.com/drive/folders/1xvqV9dMPpZSA7zMLzKdt6PbvNQAlwmfd?usp=sha
  ![](img_nodeTODOlist.jpg)
  
  ### Newsletter
- <p> Usamos Express.js, Mailchimp API, & Heroku. </p>
+ <p> Usamos Express.js, Mailchimp API, y Heroku. </p>
  
  ![](img_newsletter.jpg)
  
