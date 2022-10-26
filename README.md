@@ -88,5 +88,9 @@ https://drive.google.com/drive/folders/1xvqV9dMPpZSA7zMLzKdt6PbvNQAlwmfd?usp=sha
  <p> Blog diario con una base de datos en MongoDB usando EJS, Express.js y Lodash . </p>
  
  ![](img_blogDB.jpg)
+ 
+  ### TO-DO List
+ 
+ ![](img_nodeTODOlist.jpg)
 
 
